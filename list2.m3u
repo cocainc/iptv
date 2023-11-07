@@ -12,9 +12,6 @@ http://7cfde930.ucomist.net/iptv/2REA97EXF25VNP/112/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:0,Россия 24
 http://7cfde930.ucomist.net/iptv/2REA97EXF25VNP/15312/index.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:Детские
-http://7cfde930.ucomist.net/iptv/2REA97EXF25VNP/156/index.m3u8
 #EXTINF:0,ОТР
 http://7cfde930.ucomist.net/iptv/2REA97EXF25VNP/705/index.m3u8
 #EXTINF:0,ТВЦ
@@ -37,10 +34,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8 
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
-#EXTINF:0,БСТ
-http://7cfde930.ucomist.net/iptv/2REA97EXF25VNP/15369/index.m3u8
-22Башкортостан 24 HD
-25Городской телеканал UTV HD
 #EXTINF:-1, Глазами туриста HD 
 https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
 #EXTINF:-1, ТНТ
@@ -54,7 +47,7 @@ http://stream01.vnet.am/ParamountChannel/mono.m3u8
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1, Победа HD
 http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
-#EXTINF:-1,Муравленко 24
+#EXTINF:-1, Муравленко 24
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1, Киномикс
