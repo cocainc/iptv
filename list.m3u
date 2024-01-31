@@ -65,8 +65,6 @@ https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="komedijnoe-hd", Комедийное HD [MX(SW)]
 http://data.homeiptv.org:8090/Komediynoe_HD/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Комедия 
-http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
 https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино HD
@@ -237,12 +235,6 @@ http://185.32.44.154/ViasatNatureHD/index.m3u8
 #EXTINF:-1 group-title="Хобби", КтоКуда
 http://88.85.172.243:7011/play/a01s
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Музыка", О2ТВ
 http://195.26.83.96:7006/play/1/index.m3u8
@@ -264,9 +256,7 @@ http://92.100.39.32:2289/play/IdXtra/index.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
 http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
-#EXTINF:-1 group-title="Музыка", Kronehit
 
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", MCM Top
 http://176.222.190.11/btv/SWM/MCM/MCM.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo 
@@ -283,12 +273,8 @@ http://45.5.119.155:8090/play/a0ge/index.m3u8
 https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV 00's
 http://89.254.128.5:22280/mtv_00/video.m3u8
-#EXTINF:-1 group-title="Музыка", MusicBox Gold 
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 #EXTINF:-1 group-title="Музыка", Stingray iConcerts
 https://streamer1.connectto.com/526/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Stingray CMusic HD
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/live/master.m3u8
-#EXTINF:-1 group-title="Музыка", TMTV 
-http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
