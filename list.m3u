@@ -129,8 +129,7 @@ http://185.32.44.154/DiscoveryChannelHD/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных
-https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+
 #EXTINF:-1 group-title="Познавательные", В мире животных HD 
 http://109.248.236.21:4433/udp/238.1.1.48:1234
 
@@ -192,8 +191,6 @@ http://94.232.104.237:8000/play/077/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
 http://185.32.44.154/ViasatNatureHD/index.m3u8
 
-#EXTINF:-1 group-title="Хобби", КтоКуда
-http://88.85.172.243:7011/play/a01s
 
 
 #EXTINF:-1 group-title="Музыка", О2ТВ
@@ -210,8 +207,6 @@ https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8 
 
-#EXTINF:-1 group-title="Музыка", Europa Plus TV
-http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
 
 #EXTINF:-1 group-title="Музыка", MCM Top
 http://176.222.190.11/btv/SWM/MCM/MCM.m3u8
